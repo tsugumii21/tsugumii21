@@ -7,7 +7,7 @@
 ###
 
 # :hammer_and_wrench: Languages and Tools :
-<img align="right" height="150" src="https://media1.tenor.com/m/KZINFAw7A1sAAAAC/hoshimi-miyabi-miyabi.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/1hXQhIfoKj8AAAAC/headpatsforklee-furina.gif"  />
 
 ###
 
