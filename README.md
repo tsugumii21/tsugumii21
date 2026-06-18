@@ -6,6 +6,14 @@
 
 ---
 
+### 🧠 What I'm Up To:
+* 🚀 **AI Engineering:** Diving deep into AI systems, integration, and exploring the future of intelligent applications.
+* ✍️ **Prompt Engineering:** Learning how to effectively communicate with and optimize Large Language Models (LLMs).
+* 🎨 **UI/UX Design:** Leveling up my interface design skills to build user-friendly, clean, and intuitive software.
+* 💻 **Continuous Improvement:** Constantly refining my coding practices, architecture choices, and problem-solving skills.
+
+---
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats-dun-rho-69.vercel.app//api?username=tsugumii21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -40,17 +48,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=canva" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=ps,vscode,canva,mysql,mongodb,figma" height="40" alt="tools logo"  />
 </div>
 
 ###
