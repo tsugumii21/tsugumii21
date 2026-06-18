@@ -7,10 +7,11 @@
 ---
 
 ### 🧠 What I'm Up To:
-* 🚀 **AI Engineering:** Diving deep into AI systems, integration, and exploring the future of intelligent applications.
+* 💻 **Software Development:** Building efficient full-stack apps and features with complex local database structures and synchronization logic.
+* 🧠 **AI Engineering:** Diving deep into AI systems, integration, and exploring the future of intelligent applications.
 * ✍️ **Prompt Engineering:** Learning how to effectively communicate with and optimize Large Language Models (LLMs).
 * 🎨 **UI/UX Design:** Leveling up my interface design skills to build user-friendly, clean, and intuitive software.
-* 💻 **Continuous Improvement:** Constantly refining my coding practices, architecture choices, and problem-solving skills.
+* 🚀 **Continuous Improvement:** Constantly refining my coding practices, architecture choices, and problem-solving skills.
 
 ---
 
@@ -48,7 +49,19 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ps,vscode,canva,mysql,mongodb,figma" height="40" alt="tools logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
