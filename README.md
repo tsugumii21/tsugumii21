@@ -1,8 +1,8 @@
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-dun-rho-69.vercel.app//api?username=tsugumii21&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-dun-rho-69.vercel.app//api?username=tsugumii21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats-dun-rho-69.vercel.app//api/top-langs/?username=tsugumii21&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-dun-rho-69.vercel.app//api/top-langs/?username=tsugumii21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 # :hammer_and_wrench: Languages and Tools :
