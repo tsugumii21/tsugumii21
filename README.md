@@ -1,8 +1,8 @@
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-dun-rho-69.vercel.app//api?username=tsugumii21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-dun-rho-69.vercel.app//api?username=tsugumii21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats-dun-rho-69.vercel.app//api/top-langs/?username=tsugumii21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-dun-rho-69.vercel.app//api/top-langs/?username=tsugumii21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 # :hammer_and_wrench: Languages and Tools :
@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
