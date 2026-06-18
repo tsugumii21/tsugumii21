@@ -1,3 +1,11 @@
+<div align="center">
+  <h1>Hi there, I'm Allen.</h1>
+  <p>💼 I am currently working on <strong>Sukli</strong> — an offline-first Point of Sale (POS) application built specifically for small business owners, market stalls, sari-sari stores, and SMEs in the Philippines. It features an isolated multi-store architecture with distinct Admin and Cashier modules designed to run smoothly without depending on a constant internet connection.</p>
+  <p><code>Empowering Local Businesses, One Peso at a Time.</code></p>
+</div>
+
+---
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats-dun-rho-69.vercel.app//api?username=tsugumii21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -36,7 +44,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://skillicons.dev/icons?i=canva" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
