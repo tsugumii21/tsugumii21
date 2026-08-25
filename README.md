@@ -59,6 +59,6 @@ Hello! I'm **Allen**, a passionate software developer dedicated to crafting reli
     <img src="https://github-readme-stats-dun-rho-69.vercel.app/api/top-langs/?username=tsugumii21&theme=tokyonight&hide_border=true&layout=compact" height="155" alt="Top Languages" />
   </p>
   <p>
-    <img src="https://streak-stats.demolab.com?user=tsugumii21&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=tsugumii21&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
   </p>
 </div>
