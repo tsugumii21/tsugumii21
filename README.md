@@ -72,12 +72,18 @@
   <br/>
 
   <p>
-    <img src="https://github-readme-stats-dun-rho-69.vercel.app/api?username=tsugumii21&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" height="155" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-dun-rho-69.vercel.app/api?username=tsugumii21&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" height="160" alt="GitHub Stats" />
     &nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsugumii21&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=tsugumii21&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
   </p>
   
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsugumii21&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-stats-dun-rho-69.vercel.app/api/top-langs/?username=tsugumii21&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="Top Languages" />
+  </p>
+
+  <p>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsugumii21&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+    </a>
   </p>
 </div>
