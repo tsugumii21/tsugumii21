@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="Header Banner" style="border-radius: 8px;" />
-  
-  <br/><br/>
+  <img src="./assets/banner.jpg" width="100%" alt="Header Banner" />
   
   <h1>Hi 👋, I'm Allen</h1>
   <p><strong>Software Developer • AI Systems • Full-Stack Engineering</strong></p>
@@ -9,15 +7,15 @@
 
   <p>
     <a href="https://www.linkedin.com/in/allen-del-valle-765a57381/?skipRedirect=true" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://web.facebook.com/tsugumii021/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+      <img src="https://img.shields.io/badge/Facebook-1a1b26?style=for-the-badge&logo=facebook&logoColor=7aa2f7" alt="Facebook" />
     </a>
     &nbsp;
     <a href="mailto:allendelvalle016@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email" />
     </a>
   </p>
 </div>
@@ -28,24 +26,19 @@
   <h2>🚀 About Me</h2>
 </div>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>Hello! I'm <strong>Allen</strong>, a passionate software developer dedicated to crafting reliable, scalable, and intuitive digital solutions.</p>
-      <p>💼 Currently building <strong>Sukli</strong> — an offline-first Point of Sale (POS) application designed specifically for small business owners, market stalls, sari-sari stores, and SMEs in the Philippines. It features an isolated multi-store architecture with distinct Admin and Cashier modules engineered to operate seamlessly without depending on a constant internet connection.</p>
-      <p><strong>Key focus areas:</strong></p>
-      <ul>
-        <li>💻 <strong>Software Development:</strong> Building efficient full-stack apps and features with complex local database structures and synchronization logic.</li>
-        <li>🧠 <strong>AI Engineering & LLMs:</strong> Diving deep into AI systems, agent integration, prompt engineering, and intelligent application workflows.</li>
-        <li>🎨 <strong>UI/UX Design:</strong> Creating clean, user-friendly, and accessible interfaces.</li>
-        <li>⚡ <strong>Continuous Growth:</strong> Constantly refining architecture choices, code patterns, and problem-solving skills.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="./assets/about.jpg" width="100%" style="border-radius: 8px;" alt="Coding into the night" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="310" src="./assets/about.jpg" alt="Coding" style="border-radius: 8px; margin-left: 20px; margin-bottom: 20px;" />
+
+Hello! I'm **Allen**, a passionate software developer dedicated to crafting reliable, scalable, and intuitive digital solutions.
+
+💼 Currently building **Sukli** — an offline-first Point of Sale (POS) application designed specifically for small business owners, market stalls, sari-sari stores, and SMEs in the Philippines. It features an isolated multi-store architecture with distinct Admin and Cashier modules engineered to operate seamlessly without depending on a constant internet connection.
+
+**Key focus areas:**
+* 💻 **Software Development:** Building efficient full-stack apps and features with complex local database structures and synchronization logic.
+* 🧠 **AI Engineering & LLMs:** Diving deep into AI systems, agent integration, prompt engineering, and intelligent application workflows.
+* 🎨 **UI/UX Design:** Creating clean, user-friendly, and accessible interfaces.
+* ⚡ **Continuous Growth:** Constantly refining architecture choices, code patterns, and problem-solving skills.
+
+<br clear="right"/>
 
 <br/>
 
@@ -72,18 +65,11 @@
   <br/>
 
   <p>
-    <img src="https://github-readme-stats-dun-rho-69.vercel.app/api?username=tsugumii21&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" height="160" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-dun-rho-69.vercel.app/api?username=tsugumii21&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" height="155" alt="GitHub Stats" />
     &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=tsugumii21&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-dun-rho-69.vercel.app/api/top-langs/?username=tsugumii21&theme=tokyonight&hide_border=true&layout=compact" height="155" alt="Top Languages" />
   </p>
-  
   <p>
-    <img src="https://github-readme-stats-dun-rho-69.vercel.app/api/top-langs/?username=tsugumii21&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="Top Languages" />
-  </p>
-
-  <p>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsugumii21&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-    </a>
+    <img src="https://streak-stats.demolab.com?user=tsugumii21&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
   </p>
 </div>
