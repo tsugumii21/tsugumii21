@@ -17,9 +17,9 @@
 
 <img align="right" width="310" src="./assets/about.jpg" alt="Coding" style="border-radius: 8px; margin-left: 20px; margin-bottom: 20px;" />
 
-Hello! I'm **Allen**, a passionate software developer dedicated to crafting reliable, scalable, and intuitive digital solutions.
+Hello! I'm **Allen**, a software developer dedicated to crafting reliable, scalable, and intuitive digital solutions.
 
-💼 Currently building **Sukli** — an offline-first Point of Sale (POS) application designed specifically for small business owners, market stalls, sari-sari stores, and SMEs in the Philippines. It features an isolated multi-store architecture with distinct Admin and Cashier modules engineered to operate seamlessly without depending on a constant internet connection.
+💼 **Creator of Sukli POS** — A completed, production-ready offline-first Point of Sale (POS) and retail management ecosystem built for micro-merchants and SMEs in the Philippines. Built with Flutter, Isar NoSQL, and Supabase, it provides zero-latency offline checkout, SHA-256 PIN-secured Admin/Cashier modules, persistent monotonic order sequencing, Bluetooth/USB ESC/POS thermal receipt printing, real-time visual sales analytics, and one-tap Excel reporting without relying on a continuous internet connection.
 
 **Key focus areas:**
 * 💻 **Software Development:** Building efficient full-stack apps and features with complex local database structures and synchronization logic.
