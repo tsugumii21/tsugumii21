@@ -3,20 +3,9 @@
   
   <h1>Hi 👋, I'm Allen</h1>
   <p><strong>Software Developer • AI Systems • Full-Stack Engineering</strong></p>
-  <p><code>Empowering Local Businesses, One Peso at a Time.</code></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/allen-del-valle-765a57381/?skipRedirect=true" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://web.facebook.com/tsugumii021/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1a1b26?style=for-the-badge&logo=facebook&logoColor=7aa2f7" alt="Facebook" />
-    </a>
-    &nbsp;
-    <a href="mailto:allendelvalle016@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email" />
-    </a>
+    <a href="https://www.linkedin.com/in/allen-del-valle-765a57381/?skipRedirect=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" /></a>&nbsp;<a href="https://web.facebook.com/tsugumii021/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1a1b26?style=for-the-badge&logo=facebook&logoColor=7aa2f7" alt="Facebook" /></a>&nbsp;<a href="mailto:allendelvalle016@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email" /></a>
   </p>
 </div>
 
