@@ -58,7 +58,4 @@ Hello! I'm **Allen**, a software developer dedicated to crafting reliable, scala
     &nbsp;
     <img src="https://github-readme-stats-dun-rho-69.vercel.app/api/top-langs/?username=tsugumii21&theme=tokyonight&hide_border=true&layout=compact" height="155" alt="Top Languages" />
   </p>
-  <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=tsugumii21&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-  </p>
 </div>
