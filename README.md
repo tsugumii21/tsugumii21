@@ -45,14 +45,14 @@ I specialize in engineering resilient offline-first architectures, production-gr
   <p><strong>Languages & Frameworks</strong></p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,nodejs,tailwind,framer,python,java,html,css&theme=dark" alt="Languages & Frameworks" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,nodejs,tailwind,vite,python,java,html,css&theme=dark" alt="Languages & Frameworks" />
     </a>
   </p>
   
   <p><strong>Databases, Cloud & Tools</strong></p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,git,github,android,obsidian,vscode,ps&theme=dark" alt="Databases, Cloud & Tools" />
+      <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,git,github,androidstudio,obsidian,vscode,ps&theme=dark" alt="Databases, Cloud & Tools" />
     </a>
   </p>
 </div>
